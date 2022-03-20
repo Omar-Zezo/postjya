@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/postjya/static/css/main.0f9b7dbb.chunk.css",
+    "main.js": "/postjya/static/js/main.509cff94.chunk.js",
+    "main.js.map": "/postjya/static/js/main.509cff94.chunk.js.map",
+    "runtime-main.js": "/postjya/static/js/runtime-main.f58c0f91.js",
+    "runtime-main.js.map": "/postjya/static/js/runtime-main.f58c0f91.js.map",
+    "static/css/2.f05182aa.chunk.css": "/postjya/static/css/2.f05182aa.chunk.css",
+    "static/js/2.af1c3624.chunk.js": "/postjya/static/js/2.af1c3624.chunk.js",
+    "static/js/2.af1c3624.chunk.js.map": "/postjya/static/js/2.af1c3624.chunk.js.map",
+    "index.html": "/postjya/index.html",
+    "static/css/2.f05182aa.chunk.css.map": "/postjya/static/css/2.f05182aa.chunk.css.map",
+    "static/css/main.0f9b7dbb.chunk.css.map": "/postjya/static/css/main.0f9b7dbb.chunk.css.map",
+    "static/js/2.af1c3624.chunk.js.LICENSE.txt": "/postjya/static/js/2.af1c3624.chunk.js.LICENSE.txt",
+    "static/media/abdelrahman.d191df79.webp": "/postjya/static/media/abdelrahman.d191df79.webp",
+    "static/media/abdo-wazery.54fc83b2.webp": "/postjya/static/media/abdo-wazery.54fc83b2.webp",
+    "static/media/mainStyle.css": "/postjya/static/media/photo-3.cf4b199d.jpg",
+    "static/media/ahmed-tito.28fa342b.webp": "/postjya/static/media/ahmed-tito.28fa342b.webp",
+    "static/media/ali-wazery.3416533d.webp": "/postjya/static/media/ali-wazery.3416533d.webp",
+    "static/media/masry.a952820f.webp": "/postjya/static/media/masry.a952820f.webp",
+    "static/media/memewazery.dedd8d88.webp": "/postjya/static/media/memewazery.dedd8d88.webp",
+    "static/media/pic01.d00962ac.webp": "/postjya/static/media/pic01.d00962ac.webp",
+    "static/media/pic02.c72b35ee.webp": "/postjya/static/media/pic02.c72b35ee.webp",
+    "static/media/pic03.31e53917.webp": "/postjya/static/media/pic03.31e53917.webp",
+    "static/media/pic04.a8cbbcba.webp": "/postjya/static/media/pic04.a8cbbcba.webp",
+    "static/media/postajya.f4a94476.jpg": "/postjya/static/media/postajya.f4a94476.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f58c0f91.js",
+    "static/css/2.f05182aa.chunk.css",
+    "static/js/2.af1c3624.chunk.js",
+    "static/css/main.0f9b7dbb.chunk.css",
+    "static/js/main.509cff94.chunk.js"
+  ]
+}
