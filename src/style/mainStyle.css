@@ -711,7 +711,7 @@ a {
 
 @media screen and (max-width: 576px) {
   .one-day .container h2 {
-    font-size: 15px;
+    font-size: 15px !important;
     font-weight: bold;
   }
   .one-day .container h2::after {
@@ -1044,7 +1044,7 @@ a {
 
 @media screen and (max-width: 576px) {
   .summer-offers .container h2 {
-    font-size: 15px;
+    font-size: 15px !important;
     font-weight: bold;
   }
   .summer-offers .container h2::after {
