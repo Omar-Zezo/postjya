@@ -1044,7 +1044,7 @@ a {
 
 @media screen and (max-width: 576px) {
   .summer-offers .container h2 {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: bold;
   }
   .summer-offers .container h2::after {
